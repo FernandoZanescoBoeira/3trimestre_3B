@@ -18,7 +18,7 @@ header { background-color: var(--primary-color);
 h1{
     font-size: 2rem;
     color: var(--bg-color);
-    font-weight: 300;
+    font-weight: 700;
     }
     nav{
         display: flex;
